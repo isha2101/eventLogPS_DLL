@@ -1,0 +1,4381 @@
+{
+  "files": [
+    {
+      "fileName": "./contentFiles/any/any/ref/Microsoft.VisualBasic.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-Microsoft.VisualBasic.dll-CF95259A72666BFE2A6C5657116DF20D1024EE41",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bec43734b851521336fb1b105368e6eeda22acc2124a39530d1433b26e259baf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf95259a72666bfe2a6c5657116df20d1024ee41"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Collections.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Collections.dll-EA53D4432CBF2EF0F83E66DC82AE64D6CFCA60D6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c414fec81e08e2291aa75332fd7610d728ac75da42adabbe5ea0b05e31e52d37"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ea53d4432cbf2ef0f83e66dc82ae64d6cfca60d6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.ComponentModel.Primitives.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.ComponentModel.Primitives.dll-8205BED0A368F149262B89612C061A419D9FE758",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4f03d83736bdb15ff7f7ed6c9c6a22f4928dc3d7cb3d034bbf351a4a36b043ee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8205bed0a368f149262b89612c061a419d9fe758"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Diagnostics.Contracts.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.Contracts.dll-4AFCDD4C342D79324E31C70692E74EC33A5B93A3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c7d4a660685737c9a026b012437f9db72342493b8a16ee6350220321a31b9f20"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4afcdd4c342d79324e31c70692e74ec33a5b93a3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Diagnostics.TraceSource.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.TraceSource.dll-326AE55C9BA8925AF50E9F479BC4124164CCD46D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "09857bc2c7e577c51b62452d763c4e35994e076448714f9eb7c863ceccc0830f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "326ae55c9ba8925af50e9f479bc4124164ccd46d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Globalization.Calendars.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Globalization.Calendars.dll-2CD648FF5D200E707FA264CA70D54541D0CBD4BA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7d71ae83b688de5727228eebba5ce73cf429b2e3aa39078e27380951e895129c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2cd648ff5d200e707fa264ca70d54541d0cbd4ba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.IO.FileSystem.AccessControl.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.IO.FileSystem.AccessControl.dll-2E7CB42C0E11EC18654D8E1F49778E72D7554C5A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d2a48d547c20ad2b98853e5535aee494da2b1043dcb82b1de6338737ba41da9b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2e7cb42c0e11ec18654d8e1f49778e72d7554c5a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.IO.Pipes.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.IO.Pipes.dll-B2571E995DEA63266B0ED2A0FF81630F580C9599",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f233bf3a13ce4f75356a6498fb8b5425d8a0a90978c4ce33ab77f8075019c089"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b2571e995dea63266b0ed2a0ff81630f580c9599"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.Http.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.Http.dll-A7A84BF91AA86455BE1698B3897A67026F6084BD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a79fa6a76211de2c0b5e43769b70f7d44a6256848c60874afff3272eb4283888"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a7a84bf91aa86455be1698b3897a67026f6084bd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.Quic.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.Quic.dll-9AB56976CCA96C8D354AB4E00DDA0FBD313E206F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b9cc3b84313325516c6fa5dabb1b7a86707f5738dee1e8e3e4618a9bf6da3f8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9ab56976cca96c8d354ab4e00dda0fbd313e206f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.WebSockets.Client.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.WebSockets.Client.dll-8EE242FBB7835DA700B58C8411BE87A494A9E29B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c5602aafe038745ffcffa825082c25894e44e78a20c55eea4b4de53fbec84f33"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8ee242fbb7835da700b58c8411be87a494a9e29b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Reflection.Emit.ILGeneration.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.Emit.ILGeneration.dll-D05DF9A9568B26D262FAC286519F00697714669A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e19d3c0fbd19c93b26cd30f1a3aeecc872a6b5ed45651890da4fd151095398ec"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d05df9a9568b26d262fac286519f00697714669a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Resources.Writer.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Resources.Writer.dll-DAA064BD8625590642CD148DA4143621EDAB6FFE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "613f5b0864008f2181247ae706305f2fb2d09b501afdc1dbaf082e21133ed06b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "daa064bd8625590642cd148da4143621edab6ffe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Runtime.InteropServices.RuntimeInformation.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.InteropServices.RuntimeInformation.dll-3CD7AF0A00257E26FBFB62FADE5C3FC6B76AA17A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "099aea26723df7d876ff3d6cf8c50ce2995a4d62bebc460bc6d25c4bbd75a0a2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3cd7af0a00257e26fbfb62fade5c3fc6b76aa17a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Runtime.Serialization.Xml.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Serialization.Xml.dll-C46788F37273A8DBBCAECFB50A1A9C6D2887964A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a003124110be1913e90964b747ec0312e9e367dd42245b94a4c62673a0f63913"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c46788f37273a8dbbcaecfb50a1a9c6d2887964a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Security.Cryptography.OpenSsl.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Security.Cryptography.OpenSsl.dll-D99C52FB1C4A307FC8DA017E9494041C55491B23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2ff3651c99468754b4bd74207520626b33a3ee47aeeb2c30435063834b7d2881"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d99c52fb1c4a307fc8da017e9494041c55491b23"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.ServiceProcess.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.ServiceProcess.dll-D534FB8BADB5F6D38F3805DB5C14474962AAC403",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3a755fea74c6c50df6a01a6ba9284cf5668b147a8edeb1f8f16079739fdc8310"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d534fb8badb5f6d38f3805db5c14474962aac403"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Threading.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Threading.dll-220C782F7ED1D19EFED421A47B27FB78CCF3710B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9b3304ca51b47220e8150ee41af40933f255fb4f14b5c254d6473fa576b1649f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "220c782f7ed1d19efed421a47b27fb78ccf3710b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Threading.Timer.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Threading.Timer.dll-7F4BDF143487648F55A26ABBB3C93F569443B95E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "afe17d6e9aee962a8bd0f7e152b5cd66f08f94a74c7d9197dbc91fe6135452a3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7f4bdf143487648f55a26abbb3c93f569443b95e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Xml.Linq.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Xml.Linq.dll-33CCD1C7BADCFB72F547B595F1AEA19688D69E55",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c574d36accc9935de551e988655eeae702418a6e2ce4c9f003745cf5522aa8d0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "33ccd1c7badcfb72f547b595f1aea19688d69e55"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/WindowsBase.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-WindowsBase.dll-C7993AF266A660576B1934BF8A9ACE287A969C97",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ccc047a00465ed02571d58448bd9daf4fe477ba73251632352347940995c9d3e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c7993af266a660576b1934bf8a9ace287a969c97"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/Microsoft.CSharp.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-Microsoft.CSharp.dll-E22F44425FFE2BD1F5FE23B10834D627221C6EAD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d4a4bcb5bb0e9afc884dae968b0291dea73af244a7e43d586a8cfffa9f3b3136"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e22f44425ffe2bd1f5fe23b10834d627221c6ead"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Buffers.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Buffers.dll-E97247AABCACCAE4D8CC565318335FBC6124DCA5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "596e5e2095c5697fc837a2617ee9338b066cd04ef7dee39c0afdf6a8af1ec63b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e97247aabcaccae4d8cc565318335fbc6124dca5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.ComponentModel.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.ComponentModel.dll-6F4D05A3E953F6EF116FA7CE5B4C9CD326FC0D03",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a6bfefb51f149c0e413b9128838d7aa096c5901c5b5ee7e11664c2d1b4088043"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6f4d05a3e953f6ef116fa7ce5b4c9cd326fc0d03"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Data.DataSetExtensions.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Data.DataSetExtensions.dll-725928CCA9F011516CF1003397F28B3C641F96D2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6dbf4cf528f85bc5fb2898b7dbf2de2a93dbd52d0dfc0fd7d1072ccc0c55867e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "725928cca9f011516cf1003397f28b3c641f96d2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Diagnostics.TextWriterTraceListener.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.TextWriterTraceListener.dll-D108D6803F337F324801E7EBEAA98D1894107A71",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "75d9769870db17095466f38a3388bcc9146dc347333a91f0e96089cd172efb1e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d108d6803f337f324801e7ebeaa98d1894107a71"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Formats.Asn1.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Formats.Asn1.dll-686F6DE42DA5F19781EF6A632BA5A9E2C773BD41",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "92b41b8d698587e0a5b693ee483bbc337573ade47041578903f33c38ef2cee31"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "686f6de42da5f19781ef6a632ba5a9e2c773bd41"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.IO.Compression.ZipFile.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.IO.Compression.ZipFile.dll-0CE35FED1DEF27EEEF3A2F87BA8EC48D2E006F60",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0bc8f817221ad3dafea6f73fe9bf235d81a5f46d2d2e4745b2d61130f4b19176"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0ce35fed1def27eeef3a2f87ba8ec48d2e006f60"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.IO.MemoryMappedFiles.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.IO.MemoryMappedFiles.dll-32D151D29CA22E5C74D6753E095FEDB34C55DE4D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "37b5f56128300b35ccbbe2a2cc1e5b197c649fff23c229622dea8b6df92375ce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "32d151d29ca22e5c74d6753e095fedb34c55de4d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Memory.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Memory.dll-FA585EDB620D91AF597F82BD4A6C7D6CDBBAACC4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "97f21dd31f8fa78030da04edd656ea4504eedc53371c9e373204e6effdbfb795"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fa585edb620d91af597f82bd4a6c7d6cdbbaacc4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.Ping.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.Ping.dll-1749907A620A4C084BC052C1FEBCBD48D6BF38F6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "61ec6f3b376b95faa93f3b40cb06440f3a7786200d96442a7aab13ff8468be11"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1749907a620a4c084bc052c1febcbd48d6bf38f6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.WebHeaderCollection.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.WebHeaderCollection.dll-148D0A7A980E4E7977CB32D13D5F132409DDDB24",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d7f2ea3c79842f45cb094699ecf40b316f94ec034100ec3b846bb44d5c4ae600"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "148d0a7a980e4e7977cb32d13d5f132409dddb24"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Reflection.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.dll-4824B4B8632F1405DA701240A505D4ECC4674829",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "31a53da564683bae857b1bb4996f6aa203551b9a3e4dc59c68e7a83d25456ae4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4824b4b8632f1405da701240a505d4ecc4674829"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Resources.Reader.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Resources.Reader.dll-8375231353EFDA7D883968F88831C9CAD9C62BD6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7caac5d77e2a25f018004c32066f77ac5802c0015430a45618b9611194ff7171"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8375231353efda7d883968f88831c9cad9c62bd6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Runtime.InteropServices.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.InteropServices.dll-BF1A070F044944A9BFB85E220938AF249E811BCD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2e82ae78599a2c47ea850df3a8ccdc05581e19d02d4b41c0278537ac7a0030a5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf1a070f044944a9bfb85e220938af249e811bcd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Runtime.Serialization.Json.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Serialization.Json.dll-32E873FB4D84F6D884452C164756C9881EE993DF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d7d018d9c335c8f067b8a35f6b490b7767e98071c21c70a94ac6f206107ad924"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "32e873fb4d84f6d884452c164756c9881ee993df"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Security.Cryptography.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Security.Cryptography.dll-05B30DA09C5A80C36C47DF6D79C96E08742F1E2B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "46272ce2214c2dd887583cd0fd7a3e135f6ff1151c8f221615e294019538868a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "05b30da09c5a80c36c47df6d79c96e08742f1e2b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Security.SecureString.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Security.SecureString.dll-48ABADF41D015BA4ADFF2EC43BC699651F1B3C0A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2dca9d50c79662ba5aecedaad568f75e501400f4b857f56a33d651ff3594ef5a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "48abadf41d015ba4adff2ec43bc699651f1b3c0a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Text.RegularExpressions.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Text.RegularExpressions.dll-DC36793ABC9B3521AED962048FAA36BA01B2E83D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "617dc594ac7a97e02ac899427abea15ad02a5d7e31003eb2db4ff94699fbdeec"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dc36793abc9b3521aed962048faa36ba01b2e83d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Threading.Thread.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Threading.Thread.dll-D6D6ECC1C697989EE462DA22AC6BB8DBD61F81C1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ea94dadaa8a95b710e761faf837d5db478cf2eb48fcbddb67929e599b8e141a7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d6d6ecc1c697989ee462da22ac6bb8dbd61f81c1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Windows.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Windows.dll-16F84A2CD719223A44B18A08761053887394B270",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "909aaf202bc5e504a5ce361eb6981073673037ee0a4273c166517db6d56cd9e5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "16f84a2cd719223a44b18a08761053887394b270"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Xml.XPath.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Xml.XPath.dll-C865113BB094210B54A0B4421C9D115C82F6FE22",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7b0d88bf0e36e246fe379d6680b09a0c107d361e20e1136a4d98e693df668d54"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c865113bb094210b54a0b4421c9d115c82f6fe22"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/Microsoft.Win32.Primitives.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-Microsoft.Win32.Primitives.dll-B39E4EDB97291F42C830CBDEC7D40CB0E05A55D6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c2e72a3aac91ef21b57bf7c4bba7b7b6ad4d3d3ce6240929dea35491dcf4db14"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b39e4edb97291f42c830cbdec7d40cb0e05a55d6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Collections.Immutable.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Collections.Immutable.dll-FC7C8ECF03CDE50A548B02788D943BD420EE1164",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "13c114c0f7e1efd5d9abdf3492966cdafcb93c7094aed07a794b9d8b7d35d9af"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fc7c8ecf03cde50a548b02788d943bd420ee1164"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.ComponentModel.TypeConverter.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.ComponentModel.TypeConverter.dll-1F4C78A9AC0A2AC3CBC6AC807A1F81324F65A009",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cc23701c654684b8b4ba2f063aa4375aeb02a8e159937c31001cf59475834bd2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1f4c78a9ac0a2ac3cbc6ac807a1f81324f65a009"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Diagnostics.Debug.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.Debug.dll-D75AEC147BA78FA5B69A1EA3D19CE5A5A251B530",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3a95e6ba32e26677b1b3e32bb0c38eafb2ba1166de2edb3206f2453f843aa081"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d75aec147ba78fa5b69a1ea3d19ce5a5a251b530"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Diagnostics.Tracing.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.Tracing.dll-28293E7F6446E8F5693EBCCD248AEEF7CBA0F954",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "95898a21ea626c8b98a7c99928b5d234c56c4c7e38cc6a921b5eb7cbd9e78d36"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "28293e7f6446e8f5693ebccd248aeef7cba0f954"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Globalization.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Globalization.dll-D88A3C97D5F25A9904B231A2C116B82B995ADEAF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0ce9dec5a34e7e3c7a9c41b629a4c9bc9f83ab46ca39206fcb376dca09f3fa90"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d88a3c97d5f25a9904b231a2c116b82b995adeaf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.IO.FileSystem.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.IO.FileSystem.dll-CC1A1AC317F77235CDAEED53B0D63CFBB7892286",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6bf83633af04d6676461b4f3769de531a8000caa89512cd5cd5d65829e89070"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cc1a1ac317f77235cdaeed53b0d63cfbb7892286"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.IO.UnmanagedMemoryStream.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.IO.UnmanagedMemoryStream.dll-87145D063B37C1630FEA43B8431B2702F03AB3AF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bfb6473f923584b5337a63f880c1e0964dbfb96182bfa758f34c26084d1677c4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "87145d063b37c1630fea43b8431b2702f03ab3af"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.Http.Json.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.Http.Json.dll-223CEBB2F3AF5D435A88DB5120227F30EECC14EC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7e97b0e0bad526c5a9f44d69d6a972bff91f46c25d887b1ab6b4711200726caf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "223cebb2f3af5d435a88db5120227f30eecc14ec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.Requests.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.Requests.dll-53741495F9341E3519651C9D2EE2478CAB791D27",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "92ed46256739973e85d41d3135938f2a98fdc118c2fa1a9684da3c1af2fee697"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53741495f9341e3519651c9d2ee2478cab791d27"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.WebSockets.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.WebSockets.dll-AE7D6F1E2793B1672008FD9157B82A702AF8C769",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cd268c7f04e4b6dc9213f59c8b46c999fd74e957d02adbdf98af909650f58fbc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ae7d6f1e2793b1672008fd9157b82a702af8c769"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Reflection.Emit.Lightweight.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.Emit.Lightweight.dll-2A4C543A4C452CFEB038BAE9E748873C055EEFB6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7aa174f207d32d2d33303c71f450ce16992a70409dac1caf5bd7cba386ee7d54"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2a4c543a4c452cfeb038bae9e748873c055eefb6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Runtime.CompilerServices.Unsafe.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.CompilerServices.Unsafe.dll-3E796017CCE9CBB9D5DA1F5A19A5E22F09F3E0B5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "617402e9732e193102fd5e7b6a9042b0a20a3c19a715997d1f65e0ec17b0e999"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3e796017cce9cbb9d5da1f5a19a5e22f09f3e0b5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Runtime.Intrinsics.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Intrinsics.dll-1FF03E8ABE4CF307FB484DD36CBB05AFC7CA39D4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3e439cab50fb7eb69415623f2fe29309af8a80ddffbbb332d8cfb34997c71f94"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1ff03e8abe4cf307fb484dd36cbb05afc7ca39d4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Security.AccessControl.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Security.AccessControl.dll-41AA98DC9E74E73E7B0BB17124A04207A9F7CBEA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b75c7dfc55b3ebcd3aaaf540b4a71c3d88bcba120522fabc7aae83bb1d37989c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41aa98dc9e74e73e7b0bb17124a04207a9f7cbea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Security.Cryptography.Primitives.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Security.Cryptography.Primitives.dll-64DCD6C0180C252DCBE7E9D66C0DD69DFD9427E3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d6dd15c35ed4b88d35307e28520e25e3f7dabac265807a4e06b28f98fe6d55c5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "64dcd6c0180c252dcbe7e9d66c0dd69dfd9427e3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Text.Encoding.CodePages.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Text.Encoding.CodePages.dll-0AAA7B612BE7E916814E676372DD22F22F135D71",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fecc5ddf0b9318e0a513d411732473dea43b7e974b14d09fbd69dc7c65d68f09"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0aaa7b612be7e916814e676372dd22f22f135d71"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Threading.Overlapped.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Threading.Overlapped.dll-D83146652E06B71C2AC7C62AAAC363772ADCAF9B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e792229ea80b9931ad75780f0108a2fd1c62b37bd0a9d846b82d4d2bb9f2b748"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d83146652e06b71c2ac7c62aaac363772adcaf9b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Transactions.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Transactions.dll-F71D57C7E0EF0EA9F5A9F733A0AE68B9D0CE3C87",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "771534d2d592b514d1eb27b7b4a3f58169035188619a0a043b475332de2f6f9b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f71d57c7e0ef0ea9f5a9f733a0ae68b9d0ce3c87"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/Microsoft.VisualBasic.Core.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-Microsoft.VisualBasic.Core.dll-056608FA8A7B4C2B374946B2C8F97863D98BBC01",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d0d32af6fc2849e748908dd748f837dfbdb7c228f5f4423a0b9f186ed5e6005e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "056608fa8a7b4c2b374946b2c8f97863d98bbc01"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Collections.Concurrent.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Collections.Concurrent.dll-F06E3B1D2AEA8EE206AB0B24EBAC9C318751131A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68a70ce7974718d21e76aed400b8fbe55fa4109f0b13ce47add4814a4e5156c7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f06e3b1d2aea8ee206ab0b24ebac9c318751131a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.ComponentModel.EventBasedAsync.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.ComponentModel.EventBasedAsync.dll-662A4E29627E43F7045B4E17F779EBE1F00731DE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c47eb4b368d061f32d0aa200fef58ea307232739cf4c8203e76d0de77214c888"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "662a4e29627e43f7045b4e17f779ebe1f00731de"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Data.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Data.dll-C8DE10D5EB482B04B3DA6B3D19CFFB9AAF1CBD94",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2f4af5d39508fecdf9a96cd1f52ff4948bbb4fd90d26e3dec5d0260d7ad83a20"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c8de10d5eb482b04b3da6b3d19cffb9aaf1cbd94"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Diagnostics.Tools.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.Tools.dll-DBBA9672340E4134D673A5209D338A97F4B7F9A8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e309561c43dd65923ebf3ae7407bc492cfa70fd8d5eaab26f24609f006d22c3e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dbba9672340e4134d673a5209d338a97f4b7f9a8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Formats.Tar.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Formats.Tar.dll-FE2E0377D35D59EE7899095CB3B66EA71FC857E7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f4f703b973ee8c0a934d8d41d5be9cf44d279210aa10251401f1701461e54209"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fe2e0377d35d59ee7899095cb3b66ea71fc857e7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.IO.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.IO.dll-F40A96F2EDA58E984BA329485133DBE2F353ED50",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "35124820d1c09438e90e75c2c976765600494117adc9f762793b07e4a91fdb2d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f40a96f2eda58e984ba329485133dbe2f353ed50"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.IO.Pipes.AccessControl.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.IO.Pipes.AccessControl.dll-8B159A65BF82A7578D40396B5F0F2848ECCC23B8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d488f0db8a5570a2b9c501f1d373e54d68944fbb44950ac04671cf7a065b31c1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8b159a65bf82a7578d40396b5f0f2848eccc23b8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.dll-F4F804015DD0FF7310AE155DBA87A0BE73C1FB1C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1c4d7f6ba5a285a198f15b7458a88e674579c6be38ef06c7f9f9ec220ac74952"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f4f804015dd0ff7310ae155dba87a0be73c1fb1c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.Primitives.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.Primitives.dll-31651761717030B6AEF7C1692E63091E81ED6B0D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6144313e38aa5c1425ba61274be1bf63f8f5d1c6540722e5365a58ac7d3ecac6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "31651761717030b6aef7c1692e63091e81ed6b0d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.WebProxy.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.WebProxy.dll-F5DC753AADBB46CDCFDD55E9D6F18B21DCA39A17",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a01aa83de3682ff5aa6b793854620efea511c94ccaf19bf6fa2049b3e9e9ba75"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f5dc753aadbb46cdcfdd55e9d6f18b21dca39a17"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Reflection.Emit.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.Emit.dll-BF99F4DC92E8A8146DBFEFFA063333A88BF99976",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6a34b7e8163ea60b513f4f043e37f57c847d2642a38bcfcb6a55013ee18966b8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf99f4dc92e8a8146dbfeffa063333a88bf99976"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Resources.ResourceManager.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Resources.ResourceManager.dll-CD3A2E876D2CFAAECBF572B25912EDD6A999A51A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "84efb0fc70c29b8a66fab171bbeebabf99071c030c1b3733587a45469cc2a488"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cd3a2e876d2cfaaecbf572b25912edd6a999a51a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Runtime.InteropServices.JavaScript.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.InteropServices.JavaScript.dll-76C9E2C44CC59DFB179D4E636D37C014F26C04E0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b59e96e3f4c7b2ff3dff4ac60d518de72c495aaed39b967cd9333cbb9ec3fd69"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "76c9e2c44cc59dfb179d4e636d37c014f26c04e0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Runtime.Serialization.Primitives.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Serialization.Primitives.dll-69BED1754DC61D17A0A4E83660AFEB96B12F0275",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e0a49df4836b8d0aa85ad7de473c44f81d8ec3289c0552fcb749fa08039b01b8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "69bed1754dc61d17a0a4e83660afeb96b12f0275"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Security.Cryptography.Encoding.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Security.Cryptography.Encoding.dll-F075FE7E3F89BA5899D46B42385E9188A837FE37",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "020cc1b6624e3a5e8aa326e29b1608a4a7b357d811b71aef2945a324b400e825"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f075fe7e3f89ba5899d46b42385e9188a837fe37"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.ServiceModel.Web.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.ServiceModel.Web.dll-50ECF19AFCDF78E89ED31C01DB35A80E52A54FF3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4d9f7b601bb4e68eda2cb7a261ae9ae4994a2207c51af08a7c09c94a38d65b56"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "50ecf19afcdf78e89ed31c01db35a80e52a54ff3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Threading.Channels.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Threading.Channels.dll-FF5AC20F9F2EAFDD4295469C28FCB2A85F066CA9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6dd5d15a694239a5c3717ab735608100de6a26128d074be9e9552977c342675f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ff5ac20f9f2eafdd4295469c28fcb2a85f066ca9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Threading.ThreadPool.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Threading.ThreadPool.dll-15896B69586015520F29B7A1D2ACB3F1A855EA27",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b564c3448094b4544a179b63c66ef26f9a57a02345de87015d3b446540311dc4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "15896b69586015520f29b7a1d2acb3f1a855ea27"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Xml.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Xml.dll-7F889BD6B11F8C2092A4259E35B67FF332EF96FB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "48822ff78b7d2ce06b76eba6100ca546af00c7004cce325bc12385806f731a0c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7f889bd6b11f8c2092a4259e35b67ff332ef96fb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Xml.XPath.XDocument.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Xml.XPath.XDocument.dll-D18518FC84509CFFCB672596224D14A46FDF8DF8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5bd62454db53afb0b9a215e9dc3237d147bac2a9f17649dba3863a0a1615da08"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d18518fc84509cffcb672596224d14a46fdf8df8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/mscorlib.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-mscorlib.dll-09A051C1B0F71D27351C89A6F60DC9ED661ECF51",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f4ed6a822119065c118d5591dfd3d351f7dea1bfc19a8aabe63eaaabcddd7796"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "09a051c1b0f71d27351c89a6f60dc9ed661ecf51"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Collections.Specialized.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Collections.Specialized.dll-0795BC282D9C5760540375D5EA3F8C513FC8014C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cf368adc9795f304a71c860b462bb66b1c0ba64cb799f08499c340bc09a864a4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0795bc282d9c5760540375d5ea3f8c513fc8014c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Console.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Console.dll-213162FFB0E03F3F6FC12F71BDF27A94F42B1E53",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eac2391ec822ac083a6a5c435ac1b7cfa39e55f02047225b85b379bdb696f49e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "213162ffb0e03f3f6fc12f71bdf27a94f42b1e53"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Diagnostics.FileVersionInfo.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.FileVersionInfo.dll-53381E0BDEAE3FF108CA6CFF6CB1CCFDBA9CEB71",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dcaf595058bcca16f3d4f8d629f21dacd475de6a8af271438191804d4cf8e076"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53381e0bdeae3ff108ca6cff6cb1ccfdba9ceb71"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Drawing.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Drawing.dll-15E43585569C7E35BBAE766A3E279604A84358F2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1e4c39cc5d5b446b3fcca258c930cad99dbe4795c48af6b9732858ab7adff479"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "15e43585569c7e35bbae766a3e279604a84358f2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.IO.Compression.Brotli.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.IO.Compression.Brotli.dll-11E25DE060868CF7060227006B7BD51144C5451B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "21ed9794f3c53cdf87f93952167fa2e158e365641056e4d29967df7f6954f088"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "11e25de060868cf7060227006b7bd51144c5451b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.IO.FileSystem.Primitives.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.IO.FileSystem.Primitives.dll-2CAD9121C8ADDEFF7C792F727F929BAE4D5F3DBC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f25dc801fdf5858a86059d065ee4d6fcf7f0a28a85f985a77201aefc37968665"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2cad9121c8addeff7c792f727f929bae4d5f3dbc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Linq.Expressions.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Linq.Expressions.dll-406052E1D375FB571AD30DC233FA070137450198",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "62a707e4a2df08adbe1489aa032d4fdd2b5e683748569ce65b80a5e724312ac9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "406052e1d375fb571ad30dc233fa070137450198"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.Mail.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.Mail.dll-88005D542829476A65DBBDC711647B2FCD77711A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fc038197d6d34b8b33136cd929107a44ab533f66da20750422b07df4cc6b3c16"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "88005d542829476a65dbbdc711647b2fcd77711a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.ServicePoint.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.ServicePoint.dll-5178E7D9D06C839A0D24623145F6FCA3CD8ED15C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "05563d662e5b4850a0ae0cc5e8c95fbd0c62165aba05edd411b4eab3c12dee2d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5178e7d9d06c839a0d24623145f6fca3cd8ed15c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Numerics.Vectors.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Numerics.Vectors.dll-D284513444F4C6B3A210C2831CC323278512B7E6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f225c2004f69eb7ce9539e797e1594ef264419162792645e6f68777bd6af5e96"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d284513444f4c6b3a210c2831cc323278512b7e6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Reflection.Metadata.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.Metadata.dll-6DB6CD4F281C06AFAB3E88134657EF4BBFA49AEE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0d97ef6abd7e19d1860e84e3b31fd5fee3521d02a522e49d7ae7e261351b2e23"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6db6cd4f281c06afab3e88134657ef4bbfa49aee"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Runtime.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.dll-13C7D4B3A700B35EE8D38D0823BEB174B0E10BFB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "508d05b4364ed27c769a483d92b2bd53aa6d4802d65d2052cd73b5e6ead9bea5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "13c7d4b3a700b35ee8d38d0823beb174b0e10bfb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Runtime.Numerics.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Numerics.dll-A6F415DED4AE95FE341C8DCFC3485E2CBEB4A717",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c3ea6ea24cf5809f8fd3d23438bdf671a39b03c1a2bcd8425c07e4cd7251954b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a6f415ded4ae95fe341c8dcfc3485e2cbeb4a717"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Security.Cryptography.Algorithms.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Security.Cryptography.Algorithms.dll-D7236F5F9F600C57E558495A2CA99FD085C33D1C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "da097b59ebb3012d5437b81e21e8bca80fb76f2a124c5aa232fdfcf49e1816bb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d7236f5f9f600c57e558495a2ca99fd085c33d1c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Security.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Security.dll-C7C965E18A0A0A553B07A02A24B5C5FBCD405DEA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9dde8736c61e8003e3bbb1921012edf03942437e6dbd75cce61e81aad74d3ef1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c7c965e18a0a0a553b07a02a24b5c5fbcd405dea"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Text.Encoding.Extensions.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Text.Encoding.Extensions.dll-D92663DAD43BAC0C3972728CE06A75565256D780",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "12dac0b1d96a2dbaab5abef3e291de474348610596a4453407c186a2da0ac373"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d92663dad43bac0c3972728ce06a75565256d780"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Threading.Tasks.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Threading.Tasks.dll-CA0616BB4C0D72F312C2FDD347732B8C2AF0CC01",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d14c966a42fe17a89adf0575f97bd69e54b5d708f1d6e805273c2f39949e0e0c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ca0616bb4c0d72f312c2fdd347732b8c2af0cc01"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.ValueTuple.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.ValueTuple.dll-5C2D7E81F9DA28C39DFF742F1E9CF56F11B8AA72",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "27d377cf4d65daec44850c14e222844b6c42658d32537deac9c960b9af8dbdc3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5c2d7e81f9da28c39dff742f1e9cf56f11b8aa72"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Xml.XDocument.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Xml.XDocument.dll-950328004AEDF7567D6985D5A465B02324057116",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1d50f577ffd95375cce23f8d6097af11b91dc676151ff6fdc60d256f4439b866"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "950328004aedf7567d6985d5a465b02324057116"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/Microsoft.Win32.Registry.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-Microsoft.Win32.Registry.dll-9BD0C2CD3C1BE68F6B1539E2B457363002B938D4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "106dedf62ff5c9fa4b7949f687c614e2c04d461cbc3cf6d4c999fb871f8cf34e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9bd0c2cd3c1be68f6b1539e2b457363002b938d4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Collections.NonGeneric.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Collections.NonGeneric.dll-30F369C2EECAFBF49A74E1CF007513F850884712",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1447aec4a70f2e1991dabee9b4f5fa26460bf5afd0090cb1a27a92aae3af83cf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "30f369c2eecafbf49a74e1cf007513f850884712"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/netstandard.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-netstandard.dll-D362A8078972C5D2904E8C90CC43C892A420C545",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ebcf557a761091f253cf0bf8b33c928c94ee5c8b6dcf086adddd685d19a63653"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d362a8078972c5d2904e8c90cc43c892a420c545"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.ComponentModel.Annotations.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.ComponentModel.Annotations.dll-673752AF5297B626C1E4A07967117ED7903CBFFA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "710d6988b02965f0e2eca45d34538c2e0306990fc85fab2c9c7cb9d4ccab536a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "673752af5297b626c1e4a07967117ed7903cbffa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.AppContext.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.AppContext.dll-4526342F888E03A9118AD9311CCB07EBDB0F9030",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "027f3acfe644bd507dcddd8c7c176a78cb9559e13e5be50d5470fa2174da84d8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4526342f888e03a9118ad9311ccb07ebdb0f9030"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.ComponentModel.DataAnnotations.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.ComponentModel.DataAnnotations.dll-D9EFE98F9207896A9A2EBB94178EABEA6A608C36",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6a6c2328d3f1919cbd7115bbb2f65105b0315724d931495c6279eda61917cb93"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9efe98f9207896a9a2ebb94178eabea6a608c36"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/unix/lib/net8.0/Modules/Microsoft.PowerShell.Security/Microsoft.PowerShell.Security.psd1",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-unix-lib-net8.0-Modules-Microsoft.PowerShell.Security-Microsoft.PowerShell.Security.psd1-048A38CE06D2E83D717C1B4F12612ABEC4CD3EE9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "671008acd2a3e57a6c392b520e564475be23a472904e63909bda9a4f10985cce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "048a38ce06d2e83d717c1b4f12612abec4cd3ee9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Xml.ReaderWriter.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Xml.ReaderWriter.dll-4DA22B7C6DE024EFC7FA5528C74CC0A22C6A53D8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "69b686153361b33c5b133149a59e8cb270e5ae1350577032cd3764b852fb0c86"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4da22b7c6de024efc7fa5528c74cc0a22c6a53d8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/unix/lib/net8.0/Modules/Microsoft.PowerShell.Host/Microsoft.PowerShell.Host.psd1",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-unix-lib-net8.0-Modules-Microsoft.PowerShell.Host-Microsoft.PowerShell.Host.psd1-4C8F8778AFA0D721DBB7D5FF3E933647B4E6610B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bc3ea2d32af30a5290dac8bbaccbbeaa91a7c0e45fa212951b260c8e164f19e6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4c8f8778afa0d721dbb7d5ff3e933647b4e6610b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/win/lib/net8.0/Modules/Microsoft.PowerShell.Diagnostics/Microsoft.PowerShell.Diagnostics.psd1",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Diagnostics-Microsoft.PowerShell.Diagnostics.psd1-71AD4B44889CBABF48231EBC9B6C54651C314070",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "16a782c792738332fba809e2e15373e10a5643fcdd965537b8fa62194f4297bf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "71ad4b44889cbabf48231ebc9b6c54651c314070"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/win/lib/net8.0/Modules/PSDiagnostics/PSDiagnostics.psd1",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-PSDiagnostics-PSDiagnostics.psd1-F39FFFE4B762D84AC3ED54676E934F23DEAAD17D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9b4913de004d9c80fc0c3a208852d1c6d285d69887d90193e1d3ad63364ca8d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f39fffe4b762d84ac3ed54676e934f23deaad17d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ref/net8.0/System.Management.Automation.dll",
+      "SPDXID": "SPDXRef-File--ref-net8.0-System.Management.Automation.dll-A103B4CC4FDCCB7CFACF42E506E883C4EE64A857",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "39bb918638b0771b04950b8cfd7bda26643f289cdb4746c432f1526c46388f6c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a103b4cc4fdccb7cfacf42e506e883c4ee64a857"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Configuration.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Configuration.dll-225B7D896F156716055C9AE2AC8525DFB10ED755",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1c84a54b1c629e278fd72f600b27d3675b32fc5f0759118c21196ae13641466d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "225b7d896f156716055c9ae2ac8525dfb10ed755"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Diagnostics.DiagnosticSource.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.DiagnosticSource.dll-5948290CFD944554829C19A4D89B40BE068EB290",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecb07c2e1c4e0216746fd28b123bb9f6832d70b9f01a34792d673a3eaa6fae45"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5948290cfd944554829c19a4d89b40be068eb290"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.dll-08749077026D06A869EF3F8D424C62DDA72AD023",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9451fee303bf14e3a3172adf5352f259e56d32684bea3313fc4512181186270e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "08749077026d06a869ef3f8d424c62dda72ad023"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Globalization.Extensions.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Globalization.Extensions.dll-57C34078BCEEBD4700039A47769BA3B7D85A9E61",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "66b0f94089cb16bcaab1095742d703916cbce3249787c40009e8b429108542b5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "57c34078bceebd4700039a47769ba3b7d85a9e61"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.IO.FileSystem.DriveInfo.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.IO.FileSystem.DriveInfo.dll-D906410862C0186037AE83ABE89009AB3FFE17AC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9efe6403b0e4384d520d58b2a930b5cdf6eddf6177fd04baec158f82335aefa6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d906410862c0186037ae83abe89009ab3ffe17ac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Linq.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Linq.dll-36F59CC6C65360D6A65D3F4B6A72EA2F6FEEEBD0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "461c1c9092626fb88ccd1670d10fafebd545b4a24d766123ca06d94847a914ed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "36f59cc6c65360d6a65d3f4b6a72ea2f6feeebd0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.HttpListener.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.HttpListener.dll-518A3329BE064A383813531E9BE8A2B13DA217A8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4c535ed0a6df4c6ce408a40b2fab411f70cd702922efc9be2dd0abbc210f7e84"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "518a3329be064a383813531e9be8a2b13da217a8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Data.Common.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Data.Common.dll-DBCE401E17D1442110861141AC0591F1DA918C24",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b0e18928a2259232c21e4c36d14f4685902790e5f4bcb9d0b48d9859b3d0f1e8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dbce401e17d1442110861141ac0591f1da918c24"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Diagnostics.StackTrace.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.StackTrace.dll-DFA55C3AB115867C1F67742AFC3BA1565D71F67F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8a8b43f07d4aaa20bb736bf16dcc084f5fbf596e0ceb2cdf1e80dd1027d1f588"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "dfa55c3ab115867c1f67742afc3ba1565d71f67f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Dynamic.Runtime.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Dynamic.Runtime.dll-82CE8A7D47CA6ECB4EA0352F58B3AA5805630B8C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b8c6687253a1755a3402cbfd44fccc28c9a767b5b0ec7716034643bbf3b1993b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "82ce8a7d47ca6ecb4ea0352f58b3aa5805630b8c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.IO.Compression.FileSystem.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.IO.Compression.FileSystem.dll-9DF014CD389A42876DF9D4BF47C21E33002DF26F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b46fa511acc943907bf4ac6625495f9bba86fbacb1ff3cfff300940bd13482b2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9df014cd389a42876df9d4bf47c21e33002df26f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.IO.IsolatedStorage.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.IO.IsolatedStorage.dll-6D5B6B04D408FD60589AE73D24038BED08FD8484",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2b4a498dc38e0de350b7af733e7f78cdf54d40e445802c6e18ca2df150fe9f43"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6d5b6b04d408fd60589ae73d24038bed08fd8484"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Linq.Queryable.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Linq.Queryable.dll-CE8C81097C95F3CD074FF15C2B61C4EB06E870D6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9255fcf9a15e25bfad0dbb39a180cbfc51ee23c00c759213cd1c54bdc3d14e65"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ce8c81097c95f3cd074ff15c2b61c4eb06e870d6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Core.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Core.dll-F99A3F3223425C064F2D136C67A21317CB592E4A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4598a1338d54bdbf2f46bd0a9b745d828548a3b79ba94ff2fc0d7d2390436264"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f99a3f3223425c064f2d136c67a21317cb592e4a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Diagnostics.Process.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.Process.dll-E805F928D4EA29DAD19A273FAA1E8497C7BE4AD9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9f4f2e7836acc1ea53a639a8e9752facbb860f58b9eb267c6ed3b790663bfda5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e805f928d4ea29dad19a273faa1e8497c7be4ad9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Drawing.Primitives.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Drawing.Primitives.dll-80B1C8DA14A33E14D7529C5BD75AD66591D309A1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "95dc8680681ab1a8540fe5e8a35b399c721eb6ad4c531f2dbd87857444d1e3b5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "80b1c8da14a33e14d7529c5bd75ad66591d309a1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.IO.Compression.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.IO.Compression.dll-05180D02C3BBEC9EEAD7B13B309E144F1A660F26",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4639d3a7bf566140e3f280ad79f236cc77529266f8c253a56847bb9577265d5b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "05180d02c3bbec9eead7b13b309e144f1a660f26"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.IO.FileSystem.Watcher.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.IO.FileSystem.Watcher.dll-0D64F8E196163271925254934F2973E3C37800F4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "732762a96def1cacc5a52c5e2ef42794babb05a2b4cb3622208824efaec90db3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0d64f8e196163271925254934f2973e3c37800f4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Linq.Parallel.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Linq.Parallel.dll-22E36F94EF3D2CAF30585F49F326A21EF05FAA0C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2d03f8ab8e0bf747838c196d8d3445aa47e2b2a5856597dd71d856d00c18427f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "22e36f94ef3d2caf30585f49f326a21ef05faa0c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/win/lib/net8.0/Modules/Microsoft.PowerShell.Diagnostics/Diagnostics.format.ps1xml",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Diagnostics-Diagnostics.format.ps1xml-104596F0FC7C515974B4E88159D52CBC428EF353",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4698d3780087065b1a570fc0bccfb63da733b2f2bda5fdc096c9032f84638b92"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "104596f0fc7c515974b4e88159d52cbc428ef353"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/win/lib/net8.0/Modules/Microsoft.PowerShell.Utility/Microsoft.PowerShell.Utility.psd1",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Utility-Microsoft.PowerShell.Utility.psd1-80795D80DD3D3451A4A35E58E662D8CDD9FCB69B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "123520e9140fa339bc0c8e1920362949ae5bb3695dbba3422eb304ce1d6740bc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "80795d80dd3d3451a4a35e58e662d8cdd9fcb69b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ref/net8.0/Microsoft.PowerShell.Commands.Utility.xml",
+      "SPDXID": "SPDXRef-File--ref-net8.0-Microsoft.PowerShell.Commands.Utility.xml-1BEDB338C8BE6F5818D1F201DC086DD6B019AAED",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3b5e8857a42d1f8a2fa68c70027f5b0be7216549c42e0dfd2d4953e475518d8e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1bedb338c8be6f5818d1f201dc086dd6b019aaed"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/win/lib/net8.0/Modules/Microsoft.PowerShell.Diagnostics/Event.format.ps1xml",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Diagnostics-Event.format.ps1xml-E07F437B7A809B2578DC915F10C287AF4E608970",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ba5615c68407eebef57243df66a2e07b85d01e2dd6436f46282db5c51e6b9ed5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e07f437b7a809b2578dc915f10c287af4e608970"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/win/lib/net8.0/Modules/Microsoft.WSMan.Management/Microsoft.WSMan.Management.psd1",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.WSMan.Management-Microsoft.WSMan.Management.psd1-4E74FE4CABF4178FEB0A44E14160224F2190C93B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "89a70ef9d3d3388a6187e79c70aaed17d612a8a5a18f9c44c400e571f56e538a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4e74fe4cabf4178feb0a44e14160224f2190c93b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ref/net8.0/Microsoft.PowerShell.ConsoleHost.dll",
+      "SPDXID": "SPDXRef-File--ref-net8.0-Microsoft.PowerShell.ConsoleHost.dll-C93EC36DB8C0339A9857D8708B91A9D25BA08C35",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2a3ff5cb1934a19f970ea9a309a9b2a6b510bac32d0df2d14924437dac18f6fb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c93ec36db8c0339a9857d8708b91a9d25ba08c35"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/win/lib/net8.0/Modules/Microsoft.PowerShell.Management/Microsoft.PowerShell.Management.psd1",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Management-Microsoft.PowerShell.Management.psd1-B8CACCD4AC4F3605012BB53DABFC277BCD82EC5F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44596d78a6ab443d6857c583d73a10761a4df13b90106dc30380792f729729fb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b8caccd4ac4f3605012bb53dabfc277bcd82ec5f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ref/net8.0/Microsoft.PowerShell.Commands.Management.dll",
+      "SPDXID": "SPDXRef-File--ref-net8.0-Microsoft.PowerShell.Commands.Management.dll-A9D3F14AB7CE3B8807A7CB82C1D78FD51E5B7BE6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "467cc39590cdb9b9a377ee3cbd765265b84bfd3ad2ca4f2ed9982e19f64eac37"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a9d3f14ab7ce3b8807a7cb82c1d78fd51e5b7be6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./runtimes/unix/lib/net8.0/Microsoft.PowerShell.SDK.dll",
+      "SPDXID": "SPDXRef-File--runtimes-unix-lib-net8.0-Microsoft.PowerShell.SDK.dll-AAF3244C565A679E1C338B957B7EC62D52DF70B7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "33ecd7cc11b21d13cd19e1aedfd1c8f0316f83a5909d02a9160e218ba6f24834"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aaf3244c565a679e1c338b957b7ec62d52df70b7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.NetworkInformation.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.NetworkInformation.dll-58C1BDE11AF90DE0A3BE34A167269A4BFE508A9A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6f7a7f71eeda46aebbff7bb98b4cb70a0804db8f804dba1bdbc822ce3af6b0e5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "58c1bde11af90de0a3be34a167269a4bfe508a9a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.Security.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.Security.dll-2F6F108EDE25969F0AD45C7D9EEE07938FFAD9E3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a2481197edfcfc0990700d5f855e08c3a7760f8762bba9124cfd873a5ff0fce0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2f6f108ede25969f0ad45c7d9eee07938ffad9e3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.NameResolution.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.NameResolution.dll-B9BC6A01D658EF7A649F99A747332CE571DB1748",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ec774451f881d4b768a1cc69839b74f989356ad1522bd293c3297edcf1a4dc8b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b9bc6a01d658ef7a649f99a747332ce571db1748"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Numerics.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Numerics.dll-4302A8A727D39D35ABFD91701FEF3CA1BBE1F094",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cdd9f968333201970c8460f86abd202ee667462ffc04cb49a8e1e4e62ed9638c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4302a8a727d39d35abfd91701fef3ca1bbe1f094"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.WebClient.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.WebClient.dll-E0632E7155AA339EA02DB6926904CD0AE38C63C5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bbc402a63e53612e9577706bdb08339dd5cd5a7feb19ae65525c530e03544fe5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e0632e7155aa339ea02db6926904cd0ae38c63c5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Net.Sockets.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Net.Sockets.dll-A716EABB0172E4BD89BEAB2BA807D89A0BB6583D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "79d2b3fc0035fb2db64ce8e6d9ee4790153aad8e28cd464dc7917301cfdbb09a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a716eabb0172e4bd89beab2ba807d89a0bb6583d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Reflection.Extensions.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.Extensions.dll-D75DE8F50267206838543D575B1E21281C9AA592",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "18037b68931dc7fcd8a09d3984b3f51149b609e5d56dced16b7438e690495169"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d75de8f50267206838543d575b1e21281c9aa592"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Reflection.DispatchProxy.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.DispatchProxy.dll-2AD2A4653B4119A463B3CD8EC61B3CA68AE858FD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c0cc43f29c46e719920d73158a52b1b542558968b340c4ca9deaea44ddbd4f21"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2ad2a4653b4119a463b3cd8ec61b3ca68ae858fd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.ObjectModel.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.ObjectModel.dll-063CEB94A4DE27053DE4C5C6359D262F38598739",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a8a8f098e1bd8cc1de8067c142faab5326b03ad975e39c14a95afd10489eda48"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "063ceb94a4de27053de4c5c6359d262f38598739"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Runtime.CompilerServices.VisualC.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.CompilerServices.VisualC.dll-428F84B8A4C7B9B055C02D68E246F4BF9CCA3DBB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3494a042569ebdaa5087df939c39c69f5b8ebd2a74bffb37cbf63523f236059f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "428f84b8a4c7b9b055c02d68e246f4bf9cca3dbb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Reflection.TypeExtensions.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.TypeExtensions.dll-1F3F4AC1F6B02DCEA2FE789A7319875B25509193",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f3a1315351e0741b80f27389ace3c343208128ad9df84eef2e84e0117a98db86"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1f3f4ac1f6b02dcea2fe789a7319875b25509193"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Reflection.Primitives.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.Primitives.dll-2614252A8CB1A62CB5F1506DF630175F23594BDC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "060995a0c9fe075caa3a334cd7baec5059e7b96497aea5f7af82e4667b0ba1bc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2614252a8cb1a62cb5f1506df630175f23594bdc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Runtime.Loader.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Loader.dll-F805540E687DFAB7BF59F1363D869CF42ED29CA6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68bf47ead2a6ab12d6e629e540fd2f83a9ab485a8fc11b974d2687bc35ba73b4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f805540e687dfab7bf59f1363d869cf42ed29ca6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Runtime.Handles.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Handles.dll-58182A52595097FF132ED6D0478E393BE457A447",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "48b0ad6925b2047881df39bda28bf007fd1ba5542d8b35c4ccccb2cd20bb2d7c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "58182a52595097ff132ed6d0478e393be457a447"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Runtime.Extensions.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Extensions.dll-16227D2C164B5B1B9D911EFE5809DF8D8D90C40E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b861f7304987fa345f8826ebe8c6a33c1c7e7dfa9491617f75b65a8cb01a4180"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "16227d2c164b5b1b9d911efe5809df8d8d90c40e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/win/lib/net8.0/Modules/Microsoft.PowerShell.Diagnostics/GetEvent.types.ps1xml",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Diagnostics-GetEvent.types.ps1xml-8B82CE37571095C52E4F17D6BDBD660E3520BC22",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9485a06d9b6cd15e8b46f488a4ca4d846391913275cc219f914102ee6bdd345d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8b82ce37571095c52e4f17d6bdbd660e3520bc22"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Security.Claims.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Security.Claims.dll-9FB855B50F35EBE46966F1C1B5FB9552EC0C3988",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bb9488203413046b4f47f953b0abc5611b6861cda49bcb91be66b5512d040301"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9fb855b50f35ebe46966f1c1b5fb9552ec0c3988"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Runtime.Serialization.Formatters.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Serialization.Formatters.dll-53C9D48A992E8CB69D75D0BC48E7A9C70E3E6E60",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1bc78b4bd6a957b7265770630d98431d8bdde4af085197845e2ed10dc91c8948"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "53c9d48a992e8cb69d75d0bc48e7a9c70e3e6e60"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Runtime.Serialization.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Serialization.dll-C39502C9A8C2C8D903DA1166CD107681714EB7C9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "171187b001419e23577ad8c9aa550e551732088d068151d8727f56b90e1e1faf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c39502c9a8c2c8d903da1166cd107681714eb7c9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/win/lib/net8.0/Modules/Microsoft.WSMan.Management/WSMan.format.ps1xml",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.WSMan.Management-WSMan.format.ps1xml-2B2F366F6F236E56AD9446C1EF700CADA9D824F5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "242fb455099aae53293fd0345606aff53fa1684584631957be471637c5b7b191"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2b2f366f6f236e56ad9446c1ef700cada9d824f5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Security.Cryptography.Csp.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Security.Cryptography.Csp.dll-370FA808048AA4251DE7E16E01AE4437505C34B9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "03b900e8caa4f4e9e144f7541c65dd685d1a20b70bbf8d7359dfa2e9ee1a612b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "370fa808048aa4251de7e16e01ae4437505c34b9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Security.Cryptography.Cng.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Security.Cryptography.Cng.dll-9F5D1A711D3D1C29FA97BB0319AF5F1FB1700C0A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "01534944f8792bdd953f0436102b18f22d35875fe80aab019785f29251b386e7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9f5d1a711d3d1c29fa97bb0319af5f1fb1700c0a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Security.Cryptography.X509Certificates.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Security.Cryptography.X509Certificates.dll-04334B0E05DA6F768E34E88B8F849A78AE9D4EB9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3d855f06f31029064a104a3c4049efdf7ab61eb0cbc48167385a00c7c77c7dd2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04334b0e05da6f768e34e88b8f849a78ae9d4eb9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ref/net8.0/Microsoft.PowerShell.ConsoleHost.xml",
+      "SPDXID": "SPDXRef-File--ref-net8.0-Microsoft.PowerShell.ConsoleHost.xml-D7AB5930CCC19813C2E488C56E3252F8EE43ABF7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f90ca467aa430a0b2a769ca9b917dd789d816335f039798b4c1e6420d49b42e2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d7ab5930ccc19813c2e488c56e3252f8ee43abf7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Security.Principal.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Security.Principal.dll-70D233C4D91B87005727FAAD1086DE32F8EF6F1A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "54729e6d91f88a3d53b9a67f020b4d34ef817136960dc73492ee38fec9298b8e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "70d233c4d91b87005727faad1086de32f8ef6f1a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Text.Encoding.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Text.Encoding.dll-77532CD84DB4ECECA5AA1A5AF345D754C58FBFC6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fb1b653bc1a435160426b005b59b1d7b35018e3ba3029ae45264de91f2986bc9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "77532cd84db4ececa5aa1a5af345d754c58fbfc6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Security.Principal.Windows.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Security.Principal.Windows.dll-326ABC09F4525E94664C96163C0324595A501458",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f28ab463abd71a68084c1d6dcfe99e01c22119784e162013648e127c00519048"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "326abc09f4525e94664c96163c0324595a501458"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Text.Encodings.Web.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Text.Encodings.Web.dll-D958381B788FB1EB55A8AB664B7570183424351A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fd45520124120caed4f04e3e07db0895563e6dc84c047f5ccafcdf31da0c07c3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d958381b788fb1eb55a8ab664b7570183424351a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Threading.Tasks.Dataflow.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Threading.Tasks.Dataflow.dll-43235158D623E907187135E0F6BAF407348CF286",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "713987fb4e38f853360e25bda9fd0721e952ce95d5af3e144891493a0efc13f3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "43235158d623e907187135e0f6baf407348cf286"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Text.Json.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Text.Json.dll-2AABBAC4BA0C07C1914406A54CDBE86DDE08A9B1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "50954689061c681493c1b7a57e8d91bb9452c848db73f83869e5e4f7aedb5d02"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2aabbac4ba0c07c1914406a54cdbe86dde08a9b1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Transactions.Local.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Transactions.Local.dll-96A8C3A28CB0E50F06932B68FC529EAC5A6B1F5E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "006c994e1970851e73dfe5db2fbfdd0e1fa74c2aae91a9096e4a06477382d3bb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "96a8c3a28cb0e50f06932b68fc529eac5a6b1f5e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Threading.Tasks.Extensions.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Threading.Tasks.Extensions.dll-80F26B43BFA71EB7507A017E81D40B4EDA616A0D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f70c53d6b7296311ef07958f1b075d263c48b80171e180eb3e0a1ddf218dcb34"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "80f26b43bfa71eb7507a017e81d40b4eda616a0d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Threading.Tasks.Parallel.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Threading.Tasks.Parallel.dll-D68A3AFE028C7F3B498718F1A2C0A0F198D83B43",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f674eaa4159f98bd5facbd424d4b47601e7765df27c72ebc527e06b009931d45"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d68a3afe028c7f3b498718f1a2c0a0f198d83b43"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Web.HttpUtility.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Web.HttpUtility.dll-0938E7A51C5B1225B612E05693318DA0EB70DE81",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "134c56d7baa9cae9b3f15d8da8b46d2561de6472ceb41772c581f555617955c2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0938e7a51c5b1225b612e05693318da0eb70de81"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Xml.Serialization.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Xml.Serialization.dll-052E5E1B7CC51CDA42B91E692996BCAB36DD9598",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8517baaf737bf94ba0b2318864d943b7984dd3c98138f89f4d43463865bafb00"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "052e5e1b7cc51cda42b91e692996bcab36dd9598"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Web.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Web.dll-360B66FDAEF7420BF03E7DA43A4A5AD0CDD545D0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f0e4a7be910d69f34a85ebdb8a2f3348c40a7e289ffb4602c2f7baf96a2728ad"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "360b66fdaef7420bf03e7da43a4a5ad0cdd545d0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/unix/lib/net8.0/Modules/Microsoft.PowerShell.Management/Microsoft.PowerShell.Management.psd1",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-unix-lib-net8.0-Modules-Microsoft.PowerShell.Management-Microsoft.PowerShell.Management.psd1-74215CBC4A0731563B2219540838A002211FE3D4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "99ffd35b9d336ad5a5a519f50bb7dd419a1cd3f239e2aae5ad03212809a893c3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "74215cbc4a0731563b2219540838a002211fe3d4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/win/lib/net8.0/Modules/Microsoft.PowerShell.Host/Microsoft.PowerShell.Host.psd1",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Host-Microsoft.PowerShell.Host.psd1-1B222B83C3D8A3E19E18F75224A4E860B1E249BD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e1c1e0336adda92a5ab629f5c516ef73113dc6b1ae8a8c3bee4a35b6c50b2497"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1b222b83c3d8a3e19e18f75224a4e860b1e249bd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Xml.XmlDocument.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Xml.XmlDocument.dll-A8BB43C0AC577A1543E33B61FE5BC067100C9037",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "67e23c0806076a00c00525b29dba53208717b15b157025e3ae6e3cdef1ad6bb4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a8bb43c0ac577a1543e33b61fe5bc067100c9037"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/ref/System.Xml.XmlSerializer.dll",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-ref-System.Xml.XmlSerializer.dll-BB788C0545C713654F7F984DB1C356040BF515D6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "109002baf1ee5a9c6fbb962602a201a47863ec3886b8dfe82391fb828795ae92"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bb788c0545c713654f7f984db1c356040bf515d6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/win/lib/net8.0/Modules/PSDiagnostics/PSDiagnostics.psm1",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-PSDiagnostics-PSDiagnostics.psm1-86B8ADBCB327C32B4FB2B1B34C24C39D45D6BDE7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "569a687faa3f07763a62e6783d24ca5ac5009377754d323760bf1ae99372f76e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "86b8adbcb327c32b4fb2b1b34c24c39d45d6bde7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/win/lib/net8.0/Modules/CimCmdlets/CimCmdlets.psd1",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-CimCmdlets-CimCmdlets.psd1-3451E20C3009B65B8B9AA10F3C67274016670F0E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e4b960ba526eef1f2a365822748b52fdfaa7cd2ca86aa762a2a120e49b35664c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3451e20c3009b65b8b9aa10f3c67274016670f0e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/unix/lib/net8.0/Modules/Microsoft.PowerShell.Utility/Microsoft.PowerShell.Utility.psd1",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-unix-lib-net8.0-Modules-Microsoft.PowerShell.Utility-Microsoft.PowerShell.Utility.psd1-FDF6A55EEAFD61F6F2D04638F059F3F46D5A5031",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "996a65c34ce2cffc13316e0532ebcb854f5455367530071fb0c04b21f23b853a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fdf6a55eeafd61f6f2d04638f059f3f46d5a5031"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/win/lib/net8.0/Modules/Microsoft.PowerShell.Security/Microsoft.PowerShell.Security.psd1",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Security-Microsoft.PowerShell.Security.psd1-D01753CC529A41A4DF423929498216F673C7514F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "05554fde546ab0b35743744b75e60c95e942b4a414746bb417540a31b1d754a4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d01753cc529a41a4df423929498216f673c7514f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ref/net8.0/Microsoft.PowerShell.Commands.Management.xml",
+      "SPDXID": "SPDXRef-File--ref-net8.0-Microsoft.PowerShell.Commands.Management.xml-E33C9385061F39F51A04A92E41D84B9CE6D9A39B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "60aff36c04437fffd6d8bcc3da8ba07b8556cebf17aefa9c98e101dff0eaf1e4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e33c9385061f39f51a04a92e41d84b9ce6d9a39b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./runtimes/win/lib/net8.0/Microsoft.PowerShell.SDK.dll",
+      "SPDXID": "SPDXRef-File--runtimes-win-lib-net8.0-Microsoft.PowerShell.SDK.dll-204941B8F13C16EE06ED9293F1D76B747F4FF0AD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4fd5678cbfe35e508136b74e8749014707eafb1cc26130fc90202efb6e708238"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "204941b8f13c16ee06ed9293f1d76b747f4ff0ad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ref/net8.0/System.Management.Automation.xml",
+      "SPDXID": "SPDXRef-File--ref-net8.0-System.Management.Automation.xml-CF7B7F5CDBFBE5FA2EDC58D49710D1E8AA0B746C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "01c14b01399505241f325eb5fea61c5c27cc5d9d9b09fa32d681170166a030ca"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cf7b7f5cdbfbe5fa2edc58d49710d1e8aa0b746c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./contentFiles/any/any/runtimes/win/lib/net8.0/Modules/Microsoft.PowerShell.Security/Security.types.ps1xml",
+      "SPDXID": "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Security-Security.types.ps1xml-5553FD582617A9EEFEE1B39F4BDFCBFA065B451E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4f152af899190ad67c1bcb7164890af28ec38130fcb9cc9b9d18c1b90e6980d6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5553fd582617a9eefee1b39f4bdfcbfa065b451e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./ref/net8.0/Microsoft.PowerShell.Commands.Utility.dll",
+      "SPDXID": "SPDXRef-File--ref-net8.0-Microsoft.PowerShell.Commands.Utility.dll-1A655A245D34108790EDADE17DEAF5E38C07D477",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b6e369018cafd04682e1f34884748b192649410948bfc70895428c52b84f1dc9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1a655a245d34108790edade17deaf5e38c07d477"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "System.IO.Packaging",
+      "SPDXID": "SPDXRef-Package-8BC3AC3EB64349AAF877392CAC4013F1DE0514391B577FC1130B68A54543CE1C",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "8.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/System.IO.Packaging@8.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "System.Management.Automation",
+      "SPDXID": "SPDXRef-Package-D705AF4E39BF71207A84AF29CD245E4656F1CB80D4D8C61A8CF6E5309ECC627F",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "7.4.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/System.Management.Automation@7.4.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "System.Data.SqlClient",
+      "SPDXID": "SPDXRef-Package-2261A58500D95C9E05DDE33969B99251D9BA5A741BE5F22D21505A76932FE391",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.8.6",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/System.Data.SqlClient@4.8.6"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "System.Private.ServiceModel",
+      "SPDXID": "SPDXRef-Package-608EFD2A1ABD0B9F9F546C2A6613DF45A29F2BC3D0B4F790314386F8C3AA35F3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.10.3",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/System.Private.ServiceModel@4.10.3"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Windows.Compatibility",
+      "SPDXID": "SPDXRef-Package-9FC8C9CAD4EFD1179100DA18F592F7ABC861C73609A71F42A9A3EDF0B6A795AA",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "8.0.4",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Windows.Compatibility@8.0.4"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Bcl.AsyncInterfaces",
+      "SPDXID": "SPDXRef-Package-E52419E7EAB2E968092DE27E896C15F5D7DC4C20942A0E49D3BDA9FBA93CC5F6",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "8.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Bcl.AsyncInterfaces@8.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "System.ServiceModel.Duplex",
+      "SPDXID": "SPDXRef-Package-C77984B84A86B6E0C801FE2022ADC8F39C9D2476F28E4C3508F99E9AF9EEC5FA",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.10.3",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/System.ServiceModel.Duplex@4.10.3"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "System.Net.Http.WinHttpHandler",
+      "SPDXID": "SPDXRef-Package-362FE7F62267A2E1B64F78B1EA259B9CCEF0CED3B4A28DC4B48B9A384D3A75B6",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "8.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/System.Net.Http.WinHttpHandler@8.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.WSMan.Management",
+      "SPDXID": "SPDXRef-Package-6CC555B9BE9DEE2FBDF4593215917DAB0117AB4C05A62998B299786421F7B850",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "7.4.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.WSMan.Management@7.4.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "System.ServiceModel.Http",
+      "SPDXID": "SPDXRef-Package-B2E9CAA785057B6BEDBD57645D9F45D8B955DB98632BA632F1A30902D4C9C435",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.10.3",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/System.ServiceModel.Http@4.10.3"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "System.ServiceModel.Security",
+      "SPDXID": "SPDXRef-Package-FFC9EA0F0C94B7B6AD0801DADA2D556256D8E18355AF10B7E22D98CB229B40DA",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.10.3",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/System.ServiceModel.Security@4.10.3"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "System.Web.Services.Description",
+      "SPDXID": "SPDXRef-Package-72046C62D55DED10DD77A5E1F30D62AB31DD60CEAD18DA3FA3802DAFED862CF9",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.10.3",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/System.Web.Services.Description@4.10.3"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Management.Infrastructure.CimCmdlets",
+      "SPDXID": "SPDXRef-Package-E118DD64D18F2AA1ACDA22F17282ABF38360F4F77CE7A82862DD5D5B485C55FF",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "7.4.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Management.Infrastructure.CimCmdlets@7.4.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.ObjectPool",
+      "SPDXID": "SPDXRef-Package-D66565F2FCEEE9B1279F009A0D9892D8CFE32207C7527ACAFDCBD5CC6FB15D56",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "8.0.4",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.ObjectPool@8.0.4"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.PowerShell.Commands.Diagnostics",
+      "SPDXID": "SPDXRef-Package-854FF4B0C85F099CD829028CB2B64B131E76E5176996274AFB4C9E06EBD7E59A",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "7.4.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.PowerShell.Commands.Diagnostics@7.4.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "System.Text.Encodings.Web",
+      "SPDXID": "SPDXRef-Package-D595C7CA243D238A94C6D0F9277EB98AE42EDA370259D4615A58E5BE78BAD562",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "8.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/System.Text.Encodings.Web@8.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.PowerShell.Commands.Management",
+      "SPDXID": "SPDXRef-Package-9D85779B0471CB351F6726D19D2DA2A7E9F8DF147697A84D9BA6E2776C94F4B6",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "7.4.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.PowerShell.Commands.Management@7.4.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "System.ServiceModel.NetTcp",
+      "SPDXID": "SPDXRef-Package-C3248F52AF199A569C02E719773A15E948ABB24890C54894B66E8BD4FD3484C7",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.10.3",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/System.ServiceModel.NetTcp@4.10.3"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "System.ServiceModel.Primitives",
+      "SPDXID": "SPDXRef-Package-A25DF6997FB23037B3E0CA96898B38055DAF3687CA2EF736CCE8F372838D83C4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "4.10.3",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/System.ServiceModel.Primitives@4.10.3"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.PowerShell.ConsoleHost",
+      "SPDXID": "SPDXRef-Package-83179795E374CC5BDC5D8FDE9DBE743395C6D34C30A30CE99254F8C93261280E",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "7.4.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.PowerShell.ConsoleHost@7.4.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.PowerShell.Commands.Utility",
+      "SPDXID": "SPDXRef-Package-CA951848CFC90845749F3F08337060435D65CFDEB2D63EA6E1C3A672BD6FCE0D",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "7.4.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.PowerShell.Commands.Utility@7.4.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.PowerShell.Security",
+      "SPDXID": "SPDXRef-Package-7D9FF0555E92D57D9D10AA7D0F84A36A7C6D1BCEAC3CE3F52F9E7DFBC1D97A29",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "7.4.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.PowerShell.Security@7.4.2"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.PowerShell.SDK",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "66146d19a7cd231b3914b108fe10c47b8d15a9f2"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "7.4.2",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/Microsoft/sbom.microsoft/Microsoft.PowerShell.SDK@7.4.2?tag_id=18315035-d35e-44ca-8c95-6b40676561de"
+        }
+      ],
+      "supplier": "Organization: Microsoft",
+      "hasFiles": [
+        "SPDXRef-File--ref-net8.0-Microsoft.PowerShell.Commands.Utility.dll-1A655A245D34108790EDADE17DEAF5E38C07D477",
+        "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Security-Security.types.ps1xml-5553FD582617A9EEFEE1B39F4BDFCBFA065B451E",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Serialization.dll-C39502C9A8C2C8D903DA1166CD107681714EB7C9",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Serialization.Formatters.dll-53C9D48A992E8CB69D75D0BC48E7A9C70E3E6E60",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Security.Claims.dll-9FB855B50F35EBE46966F1C1B5FB9552EC0C3988",
+        "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Diagnostics-GetEvent.types.ps1xml-8B82CE37571095C52E4F17D6BDBD660E3520BC22",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Handles.dll-58182A52595097FF132ED6D0478E393BE457A447",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.Sockets.dll-A716EABB0172E4BD89BEAB2BA807D89A0BB6583D",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.WebClient.dll-E0632E7155AA339EA02DB6926904CD0AE38C63C5",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Numerics.dll-4302A8A727D39D35ABFD91701FEF3CA1BBE1F094",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.NameResolution.dll-B9BC6A01D658EF7A649F99A747332CE571DB1748",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.Security.dll-2F6F108EDE25969F0AD45C7D9EEE07938FFAD9E3",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.NetworkInformation.dll-58C1BDE11AF90DE0A3BE34A167269A4BFE508A9A",
+        "SPDXRef-File--ref-net8.0-System.Management.Automation.xml-CF7B7F5CDBFBE5FA2EDC58D49710D1E8AA0B746C",
+        "SPDXRef-File--ref-net8.0-Microsoft.PowerShell.Commands.Management.xml-E33C9385061F39F51A04A92E41D84B9CE6D9A39B",
+        "SPDXRef-File--contentFiles-any-any-runtimes-unix-lib-net8.0-Modules-Microsoft.PowerShell.Utility-Microsoft.PowerShell.Utility.psd1-FDF6A55EEAFD61F6F2D04638F059F3F46D5A5031",
+        "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-CimCmdlets-CimCmdlets.psd1-3451E20C3009B65B8B9AA10F3C67274016670F0E",
+        "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-PSDiagnostics-PSDiagnostics.psm1-86B8ADBCB327C32B4FB2B1B34C24C39D45D6BDE7",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Xml.Serialization.dll-052E5E1B7CC51CDA42B91E692996BCAB36DD9598",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Web.HttpUtility.dll-0938E7A51C5B1225B612E05693318DA0EB70DE81",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Threading.Tasks.Parallel.dll-D68A3AFE028C7F3B498718F1A2C0A0F198D83B43",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Threading.Tasks.Extensions.dll-80F26B43BFA71EB7507A017E81D40B4EDA616A0D",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Transactions.Local.dll-96A8C3A28CB0E50F06932B68FC529EAC5A6B1F5E",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Text.Json.dll-2AABBAC4BA0C07C1914406A54CDBE86DDE08A9B1",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Threading.Tasks.Dataflow.dll-43235158D623E907187135E0F6BAF407348CF286",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Text.Encodings.Web.dll-D958381B788FB1EB55A8AB664B7570183424351A",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Security.Principal.dll-70D233C4D91B87005727FAAD1086DE32F8EF6F1A",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Security.Cryptography.X509Certificates.dll-04334B0E05DA6F768E34E88B8F849A78AE9D4EB9",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Security.Cryptography.Cng.dll-9F5D1A711D3D1C29FA97BB0319AF5F1FB1700C0A",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Security.Cryptography.Csp.dll-370FA808048AA4251DE7E16E01AE4437505C34B9",
+        "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.WSMan.Management-WSMan.format.ps1xml-2B2F366F6F236E56AD9446C1EF700CADA9D824F5",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Extensions.dll-16227D2C164B5B1B9D911EFE5809DF8D8D90C40E",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Loader.dll-F805540E687DFAB7BF59F1363D869CF42ED29CA6",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.Primitives.dll-2614252A8CB1A62CB5F1506DF630175F23594BDC",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.TypeExtensions.dll-1F3F4AC1F6B02DCEA2FE789A7319875B25509193",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.CompilerServices.VisualC.dll-428F84B8A4C7B9B055C02D68E246F4BF9CCA3DBB",
+        "SPDXRef-File--contentFiles-any-any-ref-System.ObjectModel.dll-063CEB94A4DE27053DE4C5C6359D262F38598739",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.DispatchProxy.dll-2AD2A4653B4119A463B3CD8EC61B3CA68AE858FD",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.Extensions.dll-D75DE8F50267206838543D575B1E21281C9AA592",
+        "SPDXRef-File--runtimes-unix-lib-net8.0-Microsoft.PowerShell.SDK.dll-AAF3244C565A679E1C338B957B7EC62D52DF70B7",
+        "SPDXRef-File--ref-net8.0-Microsoft.PowerShell.Commands.Management.dll-A9D3F14AB7CE3B8807A7CB82C1D78FD51E5B7BE6",
+        "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Management-Microsoft.PowerShell.Management.psd1-B8CACCD4AC4F3605012BB53DABFC277BCD82EC5F",
+        "SPDXRef-File--ref-net8.0-Microsoft.PowerShell.ConsoleHost.dll-C93EC36DB8C0339A9857D8708B91A9D25BA08C35",
+        "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.WSMan.Management-Microsoft.WSMan.Management.psd1-4E74FE4CABF4178FEB0A44E14160224F2190C93B",
+        "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Diagnostics-Event.format.ps1xml-E07F437B7A809B2578DC915F10C287AF4E608970",
+        "SPDXRef-File--ref-net8.0-Microsoft.PowerShell.Commands.Utility.xml-1BEDB338C8BE6F5818D1F201DC086DD6B019AAED",
+        "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Utility-Microsoft.PowerShell.Utility.psd1-80795D80DD3D3451A4A35E58E662D8CDD9FCB69B",
+        "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Diagnostics-Diagnostics.format.ps1xml-104596F0FC7C515974B4E88159D52CBC428EF353",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Linq.Parallel.dll-22E36F94EF3D2CAF30585F49F326A21EF05FAA0C",
+        "SPDXRef-File--contentFiles-any-any-ref-System.IO.FileSystem.Watcher.dll-0D64F8E196163271925254934F2973E3C37800F4",
+        "SPDXRef-File--contentFiles-any-any-ref-System.IO.Compression.dll-05180D02C3BBEC9EEAD7B13B309E144F1A660F26",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Drawing.Primitives.dll-80B1C8DA14A33E14D7529C5BD75AD66591D309A1",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.Process.dll-E805F928D4EA29DAD19A273FAA1E8497C7BE4AD9",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Core.dll-F99A3F3223425C064F2D136C67A21317CB592E4A",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Linq.Queryable.dll-CE8C81097C95F3CD074FF15C2B61C4EB06E870D6",
+        "SPDXRef-File--contentFiles-any-any-ref-System.IO.IsolatedStorage.dll-6D5B6B04D408FD60589AE73D24038BED08FD8484",
+        "SPDXRef-File--contentFiles-any-any-ref-System.IO.Compression.FileSystem.dll-9DF014CD389A42876DF9D4BF47C21E33002DF26F",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Dynamic.Runtime.dll-82CE8A7D47CA6ECB4EA0352F58B3AA5805630B8C",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.StackTrace.dll-DFA55C3AB115867C1F67742AFC3BA1565D71F67F",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Data.Common.dll-DBCE401E17D1442110861141AC0591F1DA918C24",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.HttpListener.dll-518A3329BE064A383813531E9BE8A2B13DA217A8",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Linq.dll-36F59CC6C65360D6A65D3F4B6A72EA2F6FEEEBD0",
+        "SPDXRef-File--contentFiles-any-any-ref-System.IO.FileSystem.DriveInfo.dll-D906410862C0186037AE83ABE89009AB3FFE17AC",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Globalization.Extensions.dll-57C34078BCEEBD4700039A47769BA3B7D85A9E61",
+        "SPDXRef-File--contentFiles-any-any-ref-System.dll-08749077026D06A869EF3F8D424C62DDA72AD023",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.DiagnosticSource.dll-5948290CFD944554829C19A4D89B40BE068EB290",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Configuration.dll-225B7D896F156716055C9AE2AC8525DFB10ED755",
+        "SPDXRef-File--ref-net8.0-System.Management.Automation.dll-A103B4CC4FDCCB7CFACF42E506E883C4EE64A857",
+        "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-PSDiagnostics-PSDiagnostics.psd1-F39FFFE4B762D84AC3ED54676E934F23DEAAD17D",
+        "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Diagnostics-Microsoft.PowerShell.Diagnostics.psd1-71AD4B44889CBABF48231EBC9B6C54651C314070",
+        "SPDXRef-File--contentFiles-any-any-runtimes-unix-lib-net8.0-Modules-Microsoft.PowerShell.Host-Microsoft.PowerShell.Host.psd1-4C8F8778AFA0D721DBB7D5FF3E933647B4E6610B",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Xml.ReaderWriter.dll-4DA22B7C6DE024EFC7FA5528C74CC0A22C6A53D8",
+        "SPDXRef-File--contentFiles-any-any-runtimes-unix-lib-net8.0-Modules-Microsoft.PowerShell.Security-Microsoft.PowerShell.Security.psd1-048A38CE06D2E83D717C1B4F12612ABEC4CD3EE9",
+        "SPDXRef-File--contentFiles-any-any-ref-System.ComponentModel.DataAnnotations.dll-D9EFE98F9207896A9A2EBB94178EABEA6A608C36",
+        "SPDXRef-File--contentFiles-any-any-ref-System.AppContext.dll-4526342F888E03A9118AD9311CCB07EBDB0F9030",
+        "SPDXRef-File--contentFiles-any-any-ref-System.ComponentModel.Annotations.dll-673752AF5297B626C1E4A07967117ED7903CBFFA",
+        "SPDXRef-File--contentFiles-any-any-ref-netstandard.dll-D362A8078972C5D2904E8C90CC43C892A420C545",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Collections.NonGeneric.dll-30F369C2EECAFBF49A74E1CF007513F850884712",
+        "SPDXRef-File--contentFiles-any-any-ref-Microsoft.Win32.Registry.dll-9BD0C2CD3C1BE68F6B1539E2B457363002B938D4",
+        "SPDXRef-File--runtimes-win-lib-net8.0-Microsoft.PowerShell.SDK.dll-204941B8F13C16EE06ED9293F1D76B747F4FF0AD",
+        "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Security-Microsoft.PowerShell.Security.psd1-D01753CC529A41A4DF423929498216F673C7514F",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Xml.XmlSerializer.dll-BB788C0545C713654F7F984DB1C356040BF515D6",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Xml.XmlDocument.dll-A8BB43C0AC577A1543E33B61FE5BC067100C9037",
+        "SPDXRef-File--contentFiles-any-any-runtimes-win-lib-net8.0-Modules-Microsoft.PowerShell.Host-Microsoft.PowerShell.Host.psd1-1B222B83C3D8A3E19E18F75224A4E860B1E249BD",
+        "SPDXRef-File--contentFiles-any-any-runtimes-unix-lib-net8.0-Modules-Microsoft.PowerShell.Management-Microsoft.PowerShell.Management.psd1-74215CBC4A0731563B2219540838A002211FE3D4",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Web.dll-360B66FDAEF7420BF03E7DA43A4A5AD0CDD545D0",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Security.Principal.Windows.dll-326ABC09F4525E94664C96163C0324595A501458",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Text.Encoding.dll-77532CD84DB4ECECA5AA1A5AF345D754C58FBFC6",
+        "SPDXRef-File--ref-net8.0-Microsoft.PowerShell.ConsoleHost.xml-D7AB5930CCC19813C2E488C56E3252F8EE43ABF7",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Xml.XDocument.dll-950328004AEDF7567D6985D5A465B02324057116",
+        "SPDXRef-File--contentFiles-any-any-ref-System.ValueTuple.dll-5C2D7E81F9DA28C39DFF742F1E9CF56F11B8AA72",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Threading.Tasks.dll-CA0616BB4C0D72F312C2FDD347732B8C2AF0CC01",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Text.Encoding.Extensions.dll-D92663DAD43BAC0C3972728CE06A75565256D780",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Security.dll-C7C965E18A0A0A553B07A02A24B5C5FBCD405DEA",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Security.Cryptography.Algorithms.dll-D7236F5F9F600C57E558495A2CA99FD085C33D1C",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Numerics.dll-A6F415DED4AE95FE341C8DCFC3485E2CBEB4A717",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.dll-13C7D4B3A700B35EE8D38D0823BEB174B0E10BFB",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.Metadata.dll-6DB6CD4F281C06AFAB3E88134657EF4BBFA49AEE",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Numerics.Vectors.dll-D284513444F4C6B3A210C2831CC323278512B7E6",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.ServicePoint.dll-5178E7D9D06C839A0D24623145F6FCA3CD8ED15C",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.Mail.dll-88005D542829476A65DBBDC711647B2FCD77711A",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Linq.Expressions.dll-406052E1D375FB571AD30DC233FA070137450198",
+        "SPDXRef-File--contentFiles-any-any-ref-System.IO.FileSystem.Primitives.dll-2CAD9121C8ADDEFF7C792F727F929BAE4D5F3DBC",
+        "SPDXRef-File--contentFiles-any-any-ref-System.IO.Compression.Brotli.dll-11E25DE060868CF7060227006B7BD51144C5451B",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Drawing.dll-15E43585569C7E35BBAE766A3E279604A84358F2",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.FileVersionInfo.dll-53381E0BDEAE3FF108CA6CFF6CB1CCFDBA9CEB71",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Console.dll-213162FFB0E03F3F6FC12F71BDF27A94F42B1E53",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Collections.Specialized.dll-0795BC282D9C5760540375D5EA3F8C513FC8014C",
+        "SPDXRef-File--contentFiles-any-any-ref-mscorlib.dll-09A051C1B0F71D27351C89A6F60DC9ED661ECF51",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Xml.XPath.XDocument.dll-D18518FC84509CFFCB672596224D14A46FDF8DF8",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Xml.dll-7F889BD6B11F8C2092A4259E35B67FF332EF96FB",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Threading.ThreadPool.dll-15896B69586015520F29B7A1D2ACB3F1A855EA27",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Threading.Channels.dll-FF5AC20F9F2EAFDD4295469C28FCB2A85F066CA9",
+        "SPDXRef-File--contentFiles-any-any-ref-System.ServiceModel.Web.dll-50ECF19AFCDF78E89ED31C01DB35A80E52A54FF3",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Security.Cryptography.Encoding.dll-F075FE7E3F89BA5899D46B42385E9188A837FE37",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Serialization.Primitives.dll-69BED1754DC61D17A0A4E83660AFEB96B12F0275",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.InteropServices.JavaScript.dll-76C9E2C44CC59DFB179D4E636D37C014F26C04E0",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Resources.ResourceManager.dll-CD3A2E876D2CFAAECBF572B25912EDD6A999A51A",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.Emit.dll-BF99F4DC92E8A8146DBFEFFA063333A88BF99976",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.WebProxy.dll-F5DC753AADBB46CDCFDD55E9D6F18B21DCA39A17",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.Primitives.dll-31651761717030B6AEF7C1692E63091E81ED6B0D",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.dll-F4F804015DD0FF7310AE155DBA87A0BE73C1FB1C",
+        "SPDXRef-File--contentFiles-any-any-ref-System.IO.Pipes.AccessControl.dll-8B159A65BF82A7578D40396B5F0F2848ECCC23B8",
+        "SPDXRef-File--contentFiles-any-any-ref-System.IO.dll-F40A96F2EDA58E984BA329485133DBE2F353ED50",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Formats.Tar.dll-FE2E0377D35D59EE7899095CB3B66EA71FC857E7",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.Tools.dll-DBBA9672340E4134D673A5209D338A97F4B7F9A8",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Data.dll-C8DE10D5EB482B04B3DA6B3D19CFFB9AAF1CBD94",
+        "SPDXRef-File--contentFiles-any-any-ref-System.ComponentModel.EventBasedAsync.dll-662A4E29627E43F7045B4E17F779EBE1F00731DE",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Collections.Concurrent.dll-F06E3B1D2AEA8EE206AB0B24EBAC9C318751131A",
+        "SPDXRef-File--contentFiles-any-any-ref-Microsoft.VisualBasic.Core.dll-056608FA8A7B4C2B374946B2C8F97863D98BBC01",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Transactions.dll-F71D57C7E0EF0EA9F5A9F733A0AE68B9D0CE3C87",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Threading.Overlapped.dll-D83146652E06B71C2AC7C62AAAC363772ADCAF9B",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Text.Encoding.CodePages.dll-0AAA7B612BE7E916814E676372DD22F22F135D71",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Security.Cryptography.Primitives.dll-64DCD6C0180C252DCBE7E9D66C0DD69DFD9427E3",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Security.AccessControl.dll-41AA98DC9E74E73E7B0BB17124A04207A9F7CBEA",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Intrinsics.dll-1FF03E8ABE4CF307FB484DD36CBB05AFC7CA39D4",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.CompilerServices.Unsafe.dll-3E796017CCE9CBB9D5DA1F5A19A5E22F09F3E0B5",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.Emit.Lightweight.dll-2A4C543A4C452CFEB038BAE9E748873C055EEFB6",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.WebSockets.dll-AE7D6F1E2793B1672008FD9157B82A702AF8C769",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.Requests.dll-53741495F9341E3519651C9D2EE2478CAB791D27",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.Http.Json.dll-223CEBB2F3AF5D435A88DB5120227F30EECC14EC",
+        "SPDXRef-File--contentFiles-any-any-ref-System.IO.UnmanagedMemoryStream.dll-87145D063B37C1630FEA43B8431B2702F03AB3AF",
+        "SPDXRef-File--contentFiles-any-any-ref-System.IO.FileSystem.dll-CC1A1AC317F77235CDAEED53B0D63CFBB7892286",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Globalization.dll-D88A3C97D5F25A9904B231A2C116B82B995ADEAF",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.Tracing.dll-28293E7F6446E8F5693EBCCD248AEEF7CBA0F954",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.Debug.dll-D75AEC147BA78FA5B69A1EA3D19CE5A5A251B530",
+        "SPDXRef-File--contentFiles-any-any-ref-System.ComponentModel.TypeConverter.dll-1F4C78A9AC0A2AC3CBC6AC807A1F81324F65A009",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Collections.Immutable.dll-FC7C8ECF03CDE50A548B02788D943BD420EE1164",
+        "SPDXRef-File--contentFiles-any-any-ref-Microsoft.Win32.Primitives.dll-B39E4EDB97291F42C830CBDEC7D40CB0E05A55D6",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Xml.XPath.dll-C865113BB094210B54A0B4421C9D115C82F6FE22",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Windows.dll-16F84A2CD719223A44B18A08761053887394B270",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Threading.Thread.dll-D6D6ECC1C697989EE462DA22AC6BB8DBD61F81C1",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Text.RegularExpressions.dll-DC36793ABC9B3521AED962048FAA36BA01B2E83D",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Security.SecureString.dll-48ABADF41D015BA4ADFF2EC43BC699651F1B3C0A",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Security.Cryptography.dll-05B30DA09C5A80C36C47DF6D79C96E08742F1E2B",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Serialization.Json.dll-32E873FB4D84F6D884452C164756C9881EE993DF",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.InteropServices.dll-BF1A070F044944A9BFB85E220938AF249E811BCD",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Resources.Reader.dll-8375231353EFDA7D883968F88831C9CAD9C62BD6",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.dll-4824B4B8632F1405DA701240A505D4ECC4674829",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.WebHeaderCollection.dll-148D0A7A980E4E7977CB32D13D5F132409DDDB24",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.Ping.dll-1749907A620A4C084BC052C1FEBCBD48D6BF38F6",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Memory.dll-FA585EDB620D91AF597F82BD4A6C7D6CDBBAACC4",
+        "SPDXRef-File--contentFiles-any-any-ref-System.IO.MemoryMappedFiles.dll-32D151D29CA22E5C74D6753E095FEDB34C55DE4D",
+        "SPDXRef-File--contentFiles-any-any-ref-System.IO.Compression.ZipFile.dll-0CE35FED1DEF27EEEF3A2F87BA8EC48D2E006F60",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Formats.Asn1.dll-686F6DE42DA5F19781EF6A632BA5A9E2C773BD41",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.TextWriterTraceListener.dll-D108D6803F337F324801E7EBEAA98D1894107A71",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Data.DataSetExtensions.dll-725928CCA9F011516CF1003397F28B3C641F96D2",
+        "SPDXRef-File--contentFiles-any-any-ref-System.ComponentModel.dll-6F4D05A3E953F6EF116FA7CE5B4C9CD326FC0D03",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Buffers.dll-E97247AABCACCAE4D8CC565318335FBC6124DCA5",
+        "SPDXRef-File--contentFiles-any-any-ref-Microsoft.CSharp.dll-E22F44425FFE2BD1F5FE23B10834D627221C6EAD",
+        "SPDXRef-File--contentFiles-any-any-ref-WindowsBase.dll-C7993AF266A660576B1934BF8A9ACE287A969C97",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Xml.Linq.dll-33CCD1C7BADCFB72F547B595F1AEA19688D69E55",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Threading.Timer.dll-7F4BDF143487648F55A26ABBB3C93F569443B95E",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Threading.dll-220C782F7ED1D19EFED421A47B27FB78CCF3710B",
+        "SPDXRef-File--contentFiles-any-any-ref-System.ServiceProcess.dll-D534FB8BADB5F6D38F3805DB5C14474962AAC403",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Security.Cryptography.OpenSsl.dll-D99C52FB1C4A307FC8DA017E9494041C55491B23",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.Serialization.Xml.dll-C46788F37273A8DBBCAECFB50A1A9C6D2887964A",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Runtime.InteropServices.RuntimeInformation.dll-3CD7AF0A00257E26FBFB62FADE5C3FC6B76AA17A",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Resources.Writer.dll-DAA064BD8625590642CD148DA4143621EDAB6FFE",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Reflection.Emit.ILGeneration.dll-D05DF9A9568B26D262FAC286519F00697714669A",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.WebSockets.Client.dll-8EE242FBB7835DA700B58C8411BE87A494A9E29B",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.Quic.dll-9AB56976CCA96C8D354AB4E00DDA0FBD313E206F",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Net.Http.dll-A7A84BF91AA86455BE1698B3897A67026F6084BD",
+        "SPDXRef-File--contentFiles-any-any-ref-System.IO.Pipes.dll-B2571E995DEA63266B0ED2A0FF81630F580C9599",
+        "SPDXRef-File--contentFiles-any-any-ref-System.IO.FileSystem.AccessControl.dll-2E7CB42C0E11EC18654D8E1F49778E72D7554C5A",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Globalization.Calendars.dll-2CD648FF5D200E707FA264CA70D54541D0CBD4BA",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.TraceSource.dll-326AE55C9BA8925AF50E9F479BC4124164CCD46D",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Diagnostics.Contracts.dll-4AFCDD4C342D79324E31C70692E74EC33A5B93A3",
+        "SPDXRef-File--contentFiles-any-any-ref-System.ComponentModel.Primitives.dll-8205BED0A368F149262B89612C061A419D9FE758",
+        "SPDXRef-File--contentFiles-any-any-ref-System.Collections.dll-EA53D4432CBF2EF0F83E66DC82AE64D6CFCA60D6",
+        "SPDXRef-File--contentFiles-any-any-ref-Microsoft.VisualBasic.dll-CF95259A72666BFE2A6C5657116DF20D1024EE41"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CA951848CFC90845749F3F08337060435D65CFDEB2D63EA6E1C3A672BD6FCE0D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A25DF6997FB23037B3E0CA96898B38055DAF3687CA2EF736CCE8F372838D83C4",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E118DD64D18F2AA1ACDA22F17282ABF38360F4F77CE7A82862DD5D5B485C55FF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D595C7CA243D238A94C6D0F9277EB98AE42EDA370259D4615A58E5BE78BAD562",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-854FF4B0C85F099CD829028CB2B64B131E76E5176996274AFB4C9E06EBD7E59A",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D66565F2FCEEE9B1279F009A0D9892D8CFE32207C7527ACAFDCBD5CC6FB15D56",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B2E9CAA785057B6BEDBD57645D9F45D8B955DB98632BA632F1A30902D4C9C435",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-362FE7F62267A2E1B64F78B1EA259B9CCEF0CED3B4A28DC4B48B9A384D3A75B6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6CC555B9BE9DEE2FBDF4593215917DAB0117AB4C05A62998B299786421F7B850",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C77984B84A86B6E0C801FE2022ADC8F39C9D2476F28E4C3508F99E9AF9EEC5FA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-C3248F52AF199A569C02E719773A15E948ABB24890C54894B66E8BD4FD3484C7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9D85779B0471CB351F6726D19D2DA2A7E9F8DF147697A84D9BA6E2776C94F4B6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9FC8C9CAD4EFD1179100DA18F592F7ABC861C73609A71F42A9A3EDF0B6A795AA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7D9FF0555E92D57D9D10AA7D0F84A36A7C6D1BCEAC3CE3F52F9E7DFBC1D97A29",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-83179795E374CC5BDC5D8FDE9DBE743395C6D34C30A30CE99254F8C93261280E",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E52419E7EAB2E968092DE27E896C15F5D7DC4C20942A0E49D3BDA9FBA93CC5F6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-72046C62D55DED10DD77A5E1F30D62AB31DD60CEAD18DA3FA3802DAFED862CF9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2261A58500D95C9E05DDE33969B99251D9BA5A741BE5F22D21505A76932FE391",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D705AF4E39BF71207A84AF29CD245E4656F1CB80D4D8C61A8CF6E5309ECC627F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FFC9EA0F0C94B7B6AD0801DADA2D556256D8E18355AF10B7E22D98CB229B40DA",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-608EFD2A1ABD0B9F9F546C2A6613DF45A29F2BC3D0B4F790314386F8C3AA35F3",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8BC3AC3EB64349AAF877392CAC4013F1DE0514391B577FC1130B68A54543CE1C",
+      "spdxElementId": "SPDXRef-RootPackage"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "Microsoft.PowerShell.SDK 7.4.2",
+  "documentNamespace": "https://sbom.microsoft/1:2QSF7qZlbE-F7QrUJlEo7g:pHp_nUFvDUijZ4LrJ4RhoQ/696:479382/Microsoft.PowerShell.SDK:7.4.2:sgjlfTaJg0CcrDHBjW45AQ",
+  "creationInfo": {
+    "created": "2024-04-10T00:31:13Z",
+    "creators": [
+      "Organization: Microsoft",
+      "Tool: Microsoft.SBOMTool-2.2.4"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}
